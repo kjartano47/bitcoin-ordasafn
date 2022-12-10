@@ -19,46 +19,62 @@ Nafn á einingum rafmyntarinnar bitcoin en er líka heiti á sjálfu forritunu o
 **bálki**  
 Samansafn af færslum sem merktar eru með tímastimpli ásamt upplýsingum um fyrri bálka. Í hverjum bálk er bálkahaus sem er hashaður til að mynda sönnun fyrir vinnu og með því er hægt að staðfesta bálkann. Þegar búið er að staðfesta bálkinn er honum bætt við aðal bitcoin bálkakeðjuna.
 
+***
 **bálkakeðja**  
 Listi af staðfestum bálkum þar sem hver bálki tengist þeim fyrri alla leið til hins fyrsta bálka.
 
+***
 **staðfestingar**  
 Um leið og bálka er bætt við í bálkakeðjuna er bálkinn kominn með eina staðfestingu. Þegar öðrum bálka er bætt við á bálkakeðjuna er sá fyrri kominn með tvær staðfestingar og svo framvegis. Þegar bálki er kominn með 6 staðfestingar (eða þegar fimm fleiri bálkar eru komnir á bálkakeðjuna) er talið að þær færslur sem eru á bálkanum séu óafturkallanlega.
 erfiðleikastig
 Stilling á bitcoin netkerfinu sem segir til um hversu mikla útreikninga þarf til þess að framvísa sönnu á vinnu.
 
+***
 **erfiðleikamarkmið**  
 Þegar erfiðleikastigið hefur verið still svoleiðis að nýjum bálka er bætt við bálkakeðjuna á u.þ.b. hverjum 10 mínútum.
 
+***
 **endurreiknað erfiðleikastig**  
 Erfiðleikastig er endurreiknað á hverjum 2.106 bálka fresti þar sem reiknikraftur síðustu 2.106 bálka er skoðaður.
 
+***
 **gjald**  
 Sendandi borgar gjald fyrir hverja færslu sem send er í gegnum bitcoin kerfið.Upphæð sendandinn ræður hversu hátt gjaldið er en þær færslur með hæstu gjöldin hafa forgang til að verða staðfestar.
 
+***
 **tæta (tætifall)**  
 Stafrænt fingrafar af inntaki tvíundargildis
 
+***
 **upprunabálkur**  
 Fyrsti bálkurinn í bálkakeðjunni sem er notaður til að frumstilla rafmyntina.
 
+***
 **grafari**  
 Nóða sem tengd er bitcoin kerfinu og vinnur við að leita að nýjum bálkum með því að tæta
 
+***
 **bitcoin netkerfið**  
 Jafningjanet sem dreifir upplýsingum um færslur og bæalka á hverja einustu nóðu sem tengd er við bitcoin netkerfið.
 
+***
 **sönnun-á-vinnu**  
 Gögn sem aðeins er hægt að finna með miklum stafrænum útreikningum. Bitcoin grafarar þurfa að finna tölulega lausn við SHA256 reikniritinu sem mætir réttu erfiðleikamarkmiði.
 
+***
 **verðlaun**  
 Ákveðin upphæð af bitcoin sem grafarar fá í verðlaun fyrir að finna nýja bálkinn með því að útvega sönnun-á-vinnu. verðlaun sem grafarar fá í dag eru um 6.25 bitcoin.
 
+***
 **leynilykill (einkalykill)**  
 Leynilykillinn sem gefur þér aðgang að bitcoin sem geymd eru á samsvarandi veskisfangi. leynilykill lítur svona út: L3giDtm78iCM2FstQgUQoG1iYddXVV2S2JEs79UhD7mjoxQVZn9q
 
+***
 **færsla**  
 Flutningur á bitcoin frá einu veskisfangi í annað. Færslan er í raun undirrituð gagnagrind sem lýsir yfirfærslu verðmæta. Þessar færslur eru sendar á bitcoin netkerfinu þar sem grafarar safna þeim saman í bálka og staðfesta þá varanlega í bálkakeðjunni.
 
+***
 **veski**  
 Forrit sem heldur utan um bitcoin veskisföngin og leynilykla. Hægt er að nota forritið til þess að senda, taka á móti og geyma bitcoinin þín.
+
+***
