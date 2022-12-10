@@ -7,13 +7,15 @@
 Bitcoin veskisfang lítur svona út 15pYmCqdZ6X3t9jeoknKLVAWye1NGizdEp. Það samanstendur af bókstöfum og tölustöfum en byrjar annaðhvort á tölustafnum ‘1’ eða ‘3’. Ef veskisfangið byrjar á 1, þá er það eldri tegund…
 Veskisfang virkar í raun eins netfang. Ef þú vilt fá sendann tölvupóst þarf sendandinn að vita netfangið þitt. Ef einhver vill senda þér bitcoin þarf viðkomandi að vita veskisfangið þitt.
 
-
+***
 **Bút (bitcoin úrbóta tillögur)**     
 Bitcoin úrbótatillögur (bip Bitcoin Improvement Proposals á ensku) eru tillögur sem meðlimir bitcoin samfélagsins leggja fram til að bæta bitcoin. Til dæmis er bút0070 tillaga til að bæta samskipti milli kaupmanns og viðskiptavina þeirra.Tillagan á að gera upplifun viðskiptavina betri og einnig auka öryggi gegn árásum á greiðsluferlið eins og (man-in-the-middle-attack).
 
+***
 **bitcoin**  
 Nafn á einingum rafmyntarinnar bitcoin en er líka heiti á sjálfu forritunu og netinu.
 
+***
 **bálki**  
 Samansafn af færslum sem merktar eru með tímastimpli ásamt upplýsingum um fyrri bálka. Í hverjum bálk er bálkahaus sem er hashaður til að mynda sönnun fyrir vinnu og með því er hægt að staðfesta bálkann. Þegar búið er að staðfesta bálkinn er honum bætt við aðal bitcoin bálkakeðjuna.
 
