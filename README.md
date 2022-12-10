@@ -1,4 +1,4 @@
-#Orðalisti
+# Orðalisti
 
 
 Þessi orðalisti inniheldur skilgreiningar á orðum tengd bitcoin.
